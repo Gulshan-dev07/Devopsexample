@@ -1,3 +1,5 @@
 I am Writing My First line of code done
 Adding a new line in myfile
 Added a line a varient
+New line 1
+New line 2
